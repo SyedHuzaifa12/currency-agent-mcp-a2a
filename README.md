@@ -287,7 +287,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -304,7 +304,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Maintainer:** Syed Huzaifa  
 **Email:** syedhuzaifa.solulab@gmail.com  
-**Project Link:** [https://github.com/yourusername/currency-agent](https://github.com/yourusername/currency-agent)
+**Project Link:** [https://github.com/SyedHuzaifa12/currency-agent-mcp-a2a](https://github.com/SyedHuzaifa12/currency-agent-mcp-a2a)
 
 ---
 
@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for learning AI agent development**
 
-**Powered by Google ADK | Gemini 2.0 Flash | MCP | A2A**
+**Powered by Google ADK | Gemini 2.5 Flash | MCP | A2A**
 
 ---
 
