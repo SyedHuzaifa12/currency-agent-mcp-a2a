@@ -69,7 +69,7 @@ An intelligent currency conversion agent built with **Google ADK**, **MCP (Model
 1. **Clone the repository**
 ```bash
    git clone https://github.com/yourusername/currency-agent.git
-   cd currency-agent
+   cd currency-agent 
 ```
 
 2. **Install dependencies**
@@ -257,7 +257,7 @@ python test_client.py
 2. **Single currency pair** - Can't convert multiple pairs in one request
 3. **No historical data** - Only current/specific date rates
 4. **Basic rate limiting** - Not production-grade
-5. **Limited error recovery** - No fallback APIs
+5. **Limited error recovery** - No fallback API's
 
 ---
 
