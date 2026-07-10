@@ -90,7 +90,7 @@ An intelligent currency conversion agent built with **Google ADK**, **MCP (Model
    Wait for: `🚀 MCP server started on port 8080`
 
 5. **Start Currency Agent** (Terminal 2)
-```bash
+```bash 
    adk web currency_agent
 ```
    Wait for: `ADK Web Server started at http://localhost:8000`
@@ -128,7 +128,7 @@ Agent: "I can only help with currency conversions. Please ask about exchange rat
 
 ✅ Safe Query (Processed):
 User: "How much is 1000 CAD in EUR?"
-Agent: "1000 CAD is approximately 680 EUR based on today's rate."
+Agent: "1000 CAD is approximately 680  EUR based on today's rate."
 ```
 
 ---
