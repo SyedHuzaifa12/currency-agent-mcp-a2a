@@ -211,7 +211,7 @@ Agent Startup:
 Tool Invocation:
   Agent → MCP Server: call_tool("get_exchange_rate", {from: "USD", to: "EUR"})
   MCP Server → Frankfurter API: GET /latest?from=USD&to=EUR
-  Frankfurter → MCP Server: {"base": "USD", "rates": {"EUR": 0.93}}
+  Frankfurter → MCP Server. : {"base": "USD", "rates": {"EUR": 0.93}}
   MCP Server →  Agent: Tool result
 ```
 
