@@ -43,7 +43,7 @@ An intelligent currency conversion agent built with **Google ADK**, **MCP (Model
 └─────────────────────────────────┘
 ```
 
-### Technology Stack
+### Technology Stack 
 
 | Component | Technology | Purpose |
 |-----------|-----------|---------|
