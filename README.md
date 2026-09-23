@@ -14,7 +14,7 @@ An intelligent currency conversion agent built with **Google ADK**, **MCP (Model
 - **🛡️ LLM Guardrails** - Input/output validation, prompt injection detection, hallucination prevention
 - **🔧 MCP Protocol** - Standardized tool exposure for AI agents
 - **🤝 A2A Protocol** - Agent-to-agent communication capability
-- **🤖 Google ADK** - Agent orchestration with Gemini 2.0 Flash
+- **🤖 Google ADK** - Agent orchestration with Gemini 2.0 Flash 
 - **⚡ Fast & Efficient** - 2-3 second response time, ~$0.001 per request 
 
 ---
