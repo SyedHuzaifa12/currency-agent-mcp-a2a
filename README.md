@@ -17,7 +17,7 @@ An intelligent currency conversion agent built with **Google ADK**, **MCP (Model
 - **🤖 Google ADK** - Agent orchestration with Gemini 2.0 Flash 
 - **⚡ Fast & Efficient** - 2-3 second response time, ~$0.001 per request 
 
----
+--- 
 
 ## 🏗️ Architecture
 
