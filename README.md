@@ -1,5 +1,5 @@
 # 💱 Currency Agent - ADK + MCP + A2A + Guardrails
-
+ 
 An intelligent currency conversion agent built with **Google ADK**, **MCP (Model Context Protocol)**, **A2A (Agent-to-Agent)** protocol, and comprehensive **LLM Guardrails** for safety.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
